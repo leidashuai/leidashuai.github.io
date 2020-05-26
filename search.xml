@@ -8,7 +8,7 @@
       <link href="/posts/0629/"/>
       <url>/posts/0629/</url>
       
-        <content type="html"><![CDATA[<p>“无论你遇到谁，他都是你生命该出现的人，绝非偶然，他一定会教会你一些什么。”<br>“无论我走到哪里，那都是我该去的地方，经历一些我该经历的事，遇见我该遇见的人。”</p>]]></content>
+        <content type="html"><![CDATA[<ul><li><p><strong>“无论你遇到谁，他都是你生命该出现的人，绝非偶然，他一定会教会你一些什么。”</strong></p></li><li><p><strong>“无论我走到哪里，那都是我该去的地方，经历一些我该经历的事，遇见我该遇见的人。”</strong></p></li></ul>]]></content>
       
       
       <categories>
@@ -29,7 +29,7 @@
     
     
     <entry>
-      <title>markdown规则</title>
+      <title>Markdown规则</title>
       <link href="/posts/markdown/"/>
       <url>/posts/markdown/</url>
       
